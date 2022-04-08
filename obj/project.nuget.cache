@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JhbGZNBniYEfZ31f0uyRYoi9kUmgq8hSe//kifRqItKd0+yExvdAzFyeWnvVmVURaihHU24mk/wIzNL62mAQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\studi\\OneDrive\\Documents\\GitRepos\\sashacheek\\speedTyping\\speedTyping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\studi\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\studi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
